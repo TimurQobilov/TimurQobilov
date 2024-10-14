@@ -51,9 +51,6 @@
   <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/> 
   </a>
-  <a href="https://www.sublimetext.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sublimetext/sublimetext-original.svg" alt="sublimetext" width="40" height="40"/> 
-  </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   </a>
@@ -69,21 +66,4 @@
 
 ### Связаться со мной:
 
-<p align="left">
-  <a href="https://t.me/your-telegram-username" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" width="40" height="40"/>
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="gmail" width="40" height="40"/>
-  </a>
-  <a href="https://instagram.com/your-instagram-username" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="instagram" width="40" height="40"/>
-  </a>
-  <a href="https://facebook.com/your-facebook-profile" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="facebook" width="40" height="40"/>
-  </a>
-  <a href="https://wa.me/your-whatsapp-number" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/whatsapp/whatsapp-original.svg" alt="whatsapp" width="40" height="40"/>
-  </a>
-</p>
 
