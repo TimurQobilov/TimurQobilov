@@ -59,15 +59,23 @@
   </a>
 </p>
 
-### Мой стек технологий:
+### Связаться со мной:
 
-- **HTML & CSS**: создание адаптивных и интерактивных страниц.
-- **WordPress**: опыт разработки тем и плагинов, оптимизация сайтов.
-- **Python**: работа с автоматизацией и обработкой данных.
-- **Flutter & Dart**: разработка мобильных приложений для iOS и Android.
-- **JavaScript & PHP**: создание динамичных веб-приложений.
-- **MySQL**: работа с базами данных.
+<p align="left">
+  <a href="https://t.me/your-telegram-username" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/telegram/telegram-original.svg" alt="telegram" width="40" height="40"/>
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="gmail" width="40" height="40"/>
+  </a>
+  <a href="https://instagram.com/your-instagram-username" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="instagram" width="40" height="40"/>
+  </a>
+  <a href="https://facebook.com/your-facebook-profile" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="facebook" width="40" height="40"/>
+  </a>
+  <a href="https://wa.me/your-whatsapp-number" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/whatsapp/whatsapp-original.svg" alt="whatsapp" width="40" height="40"/>
+  </a>
+</p>
 
-Свяжитесь со мной:  
-📧 **Email**: your.email@example.com  
-💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
