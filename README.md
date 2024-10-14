@@ -71,7 +71,7 @@
 
 <p align="left">
   <a href="https://t.me/your-telegram-username" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/telegram/telegram-original.svg" alt="telegram" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" width="40" height="40"/>
   </a>
   <a href="mailto:your-email@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="gmail" width="40" height="40"/>
