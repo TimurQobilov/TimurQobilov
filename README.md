@@ -5,7 +5,7 @@
 
 ### Мои навыки:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,php,wordpress,python,dart,flutter,mysql,pycharm,phpstorm,vscode,visualstudio,figma,photoshop)](https://waytoweb.uz/)
+[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,php,wordpress,python,dart,flutter,mysql,pycharm,phpstorm,vscode,visualstudio,sublime,figma,photoshop)](https://waytoweb.uz/)
 
 ### Мой стек технологий:
 
@@ -25,7 +25,8 @@
 <a href="#" target="_blank"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="#" target="_blank"> 
+<a href="#" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  
   
