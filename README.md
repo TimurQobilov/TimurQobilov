@@ -5,7 +5,7 @@
 
 ### Мои навыки:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,php,wordpress,python,mysql,vscode,visualstudio,figma,photoshop)](https://waytoweb.uz/)
+[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,php,wordpress,python,dart,flutter,mysql,vscode,visualstudio,figma,photoshop)](https://waytoweb.uz/)
 
 ### Мой стек технологий:
 
