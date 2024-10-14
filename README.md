@@ -1,7 +1,7 @@
 # Привет! 👋 Меня зовут Timur
 
 ### Обо мне:
-Я профессиональный WordPress разработчик с опытом работы в веб-разработке. Увлекаюсь Python и занимаюсь оптимизацией и созданием сайтов на различных платформах.
+Я профессиональный WordPress разработчик с опытом работы в веб-разработке. Увлекаюсь Python и занимаюсь оптимизацией и созданием сайтов на различных платформах. Также имею опыт работы с современными технологиями мобильной разработки и интерфейсов.
 
 ### Мои навыки:
 
@@ -18,6 +18,45 @@
   <a href="https://wordpress.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> 
   </a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
+  </a>
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> 
+  </a>
+  <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+  <a href="https://github.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
+  </a>
+  <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/> 
+  </a>
+  <a href="https://www.sublimetext.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sublimetext/sublimetext-original.svg" alt="sublimetext" width="40" height="40"/> 
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+  </a>
 </p>
 
 ### Мой стек технологий:
@@ -25,6 +64,9 @@
 - **HTML & CSS**: создание адаптивных и интерактивных страниц.
 - **WordPress**: опыт разработки тем и плагинов, оптимизация сайтов.
 - **Python**: работа с автоматизацией и обработкой данных.
+- **Flutter & Dart**: разработка мобильных приложений для iOS и Android.
+- **JavaScript & PHP**: создание динамичных веб-приложений.
+- **MySQL**: работа с базами данных.
 
 Свяжитесь со мной:  
 📧 **Email**: your.email@example.com  
