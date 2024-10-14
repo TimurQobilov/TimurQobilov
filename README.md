@@ -27,10 +27,9 @@
 - **Python**: работа с автоматизацией и обработкой данных.
 
 Свяжитесь со мной:  
-<p align="center">
-  <!-- Badges go here>
-</p>
 
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 
 <!--
 **TimurQobilov/TimurQobilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
