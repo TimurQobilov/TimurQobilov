@@ -27,8 +27,9 @@
 - **Python**: работа с автоматизацией и обработкой данных.
 
 Свяжитесь со мной:  
-📧 **Email**: your.email@example.com  
-💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+<p align="center">
+  <!-- Badges go here>
+</p>
 
 
 <!--
