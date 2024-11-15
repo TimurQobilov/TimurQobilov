@@ -16,13 +16,13 @@
 - **MySQL**: работа с базами данных.
 
 ### Связаться со мной:
- <a href="#" target="_blank"> 
+ <a href="mailto:qobilovtemur.dev@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
  <a href="https://t.me/timurqobilov" target="_blank"> 
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-<a href="#" target="_blank"> 
+<a href="https://www.instagram.com/timurqobilov.uz" target="_blank"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 <a href="#" target="_blank"> 
