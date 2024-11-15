@@ -16,7 +16,7 @@
 - **MySQL**: работа с базами данных.
 
 ### Связаться со мной:
- <a href="qobilovtemur.dev@gmail.com" target="_blank"> 
+ <a href="mailto:qobilovtemur.dev@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
  <a href="https://t.me/timurqobilov" target="_blank"> 
