@@ -25,7 +25,7 @@
 <a href="https://www.instagram.com/timurqobilov.uz" target="_blank"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-<a href="#" target="_blank"> 
+<a href="https://www.linkedin.com/in/%D1%82%D0%B8%D0%BC%D1%83%D1%80-%D0%BA%D0%BE%D0%B1%D0%B8%D0%BB%D0%BE%D0%B2-715a931b5/" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://kwork.ru/user/qobilovtemurdev" target="_blank"> 
