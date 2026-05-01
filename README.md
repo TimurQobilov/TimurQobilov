@@ -121,7 +121,7 @@ status: "Открыт к новым проектам ✅"
 <div align="center">
 
 ![](https://img.shields.io/badge/✅_Проектов_выполнено-50+-6c63ff?style=for-the-badge)
-![](https://img.shields.io/badge/⭐_Опыт-3+_года-ff6584?style=for-the-badge)
+![](https://img.shields.io/badge/⭐_Опыт-5+_года-ff6584?style=for-the-badge)
 ![](https://img.shields.io/badge/🌍_Клиентов-из_5+_стран-43e97b?style=for-the-badge)
 ![](https://img.shields.io/badge/💻_Репозитории-37-f7df1e?style=for-the-badge)
 
